@@ -1,6 +1,6 @@
 ## 概要
 
-[chrome.identity.launchWebAuthFlow](https://developer.chrome.com/apps/identity)を使用してChrome拡張からTwitter認証（OAuth1.0）の認証認可を行い、Access Tokenを取得するためのサンプルです。
+[chrome.identity.launchWebAuthFlow](https://developer.chrome.com/apps/identity)を使用してChrome拡張からTwitterの認証認可（OAuth 1.0）を行い、Access Tokenを取得するためのサンプルです。
 
 ## 使用方法
 
