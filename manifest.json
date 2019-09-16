@@ -1,0 +1,14 @@
+{
+  "description": "TwitterのOAuth1.0認証認可をChrome拡張から実施するサンプル",
+  "icons": {
+    "128": "icon/icon_128.png"
+  },
+  "manifest_version": 2,
+  "name": "TwitterのOAuth1.0認証認可をChrome拡張から実施するサンプル",
+  "options_page": "options.html",
+  "permissions": [
+    "identity",
+    "https://api.twitter.com/*"
+  ],
+  "version": "0.1"
+}
